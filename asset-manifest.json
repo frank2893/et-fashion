@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/et-fashion/static/css/main.330dcda2.chunk.css",
-    "main.js": "/et-fashion/static/js/main.90387318.chunk.js",
-    "main.js.map": "/et-fashion/static/js/main.90387318.chunk.js.map",
+    "main.js": "/et-fashion/static/js/main.4c776d9c.chunk.js",
+    "main.js.map": "/et-fashion/static/js/main.4c776d9c.chunk.js.map",
     "runtime-main.js": "/et-fashion/static/js/runtime-main.272de3cc.js",
     "runtime-main.js.map": "/et-fashion/static/js/runtime-main.272de3cc.js.map",
     "static/css/2.1e56426c.chunk.css": "/et-fashion/static/css/2.1e56426c.chunk.css",
@@ -23,6 +23,6 @@
     "static/css/2.1e56426c.chunk.css",
     "static/js/2.69173d85.chunk.js",
     "static/css/main.330dcda2.chunk.css",
-    "static/js/main.90387318.chunk.js"
+    "static/js/main.4c776d9c.chunk.js"
   ]
 }
