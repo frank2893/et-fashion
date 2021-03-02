@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/et-fashion/static/css/main.330dcda2.chunk.css",
+    "main.js": "/et-fashion/static/js/main.90387318.chunk.js",
+    "main.js.map": "/et-fashion/static/js/main.90387318.chunk.js.map",
+    "runtime-main.js": "/et-fashion/static/js/runtime-main.272de3cc.js",
+    "runtime-main.js.map": "/et-fashion/static/js/runtime-main.272de3cc.js.map",
+    "static/css/2.1e56426c.chunk.css": "/et-fashion/static/css/2.1e56426c.chunk.css",
+    "static/js/2.69173d85.chunk.js": "/et-fashion/static/js/2.69173d85.chunk.js",
+    "static/js/2.69173d85.chunk.js.map": "/et-fashion/static/js/2.69173d85.chunk.js.map",
+    "index.html": "/et-fashion/index.html",
+    "static/css/2.1e56426c.chunk.css.map": "/et-fashion/static/css/2.1e56426c.chunk.css.map",
+    "static/css/main.330dcda2.chunk.css.map": "/et-fashion/static/css/main.330dcda2.chunk.css.map",
+    "static/js/2.69173d85.chunk.js.LICENSE.txt": "/et-fashion/static/js/2.69173d85.chunk.js.LICENSE.txt",
+    "static/media/gorjeo.6a724f9d.png": "/et-fashion/static/media/gorjeo.6a724f9d.png",
+    "static/media/gorjeo.8e65601e.png": "/et-fashion/static/media/gorjeo.8e65601e.png",
+    "static/media/instagram.2d5cedd5.png": "/et-fashion/static/media/instagram.2d5cedd5.png",
+    "static/media/instagram.b79433a6.png": "/et-fashion/static/media/instagram.b79433a6.png",
+    "static/media/Home.css": "/et-fashion/static/media/moda2.57ff5c93.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.272de3cc.js",
+    "static/css/2.1e56426c.chunk.css",
+    "static/js/2.69173d85.chunk.js",
+    "static/css/main.330dcda2.chunk.css",
+    "static/js/main.90387318.chunk.js"
+  ]
+}
