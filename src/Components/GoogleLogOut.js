@@ -19,7 +19,7 @@ class Logout extends Component {
   render() {
     return(
       <GoogleLogout
-        clientId="341434028289-tsp78kmikir79a78e74s0u05m7fv211g.apps.googleusercontent.com"
+        clientId="341434028289-qn459jnoh7tbnhoe00gtk9c833umr89n.apps.googleusercontent.com"
         buttonText="Logout"
         render={renderProps => (
           <React.Fragment>
