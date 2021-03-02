@@ -1,0 +1,43 @@
+.button-content {
+    display: flex;
+    flex-flow: row;
+    justify-content: flex-end;
+}
+
+.custom-container {
+    padding: 1rem;
+    display: flex;
+    flex-flow: column;
+}
+
+.custom-block {
+    display: flex;
+    flex-flow: row;
+    align-items: center;
+}
+
+.block-text {
+    display: flex;
+    flex-flow: column;
+}
+
+.block-title {
+    font-size: 2rem;
+    font-weight: 500;
+    margin-bottom: 2%;
+}
+
+.block-text {
+    display: flex;
+    flex-flow: column;
+}
+
+.block-title {
+    font-size: 2rem;
+    font-weight: 500;
+    margin-bottom: 1.5%;
+}
+
+.block-p {
+    text-align: justify;
+}

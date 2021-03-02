@@ -1,0 +1,20 @@
+.container-default {
+    padding: 1rem;
+    height: 100vh;
+    display: flex;
+    flex-flow: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.container-box {
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+}
+
+.container-text {
+    font-size: 2rem;
+    font-weight: 500;
+    margin-bottom: 2%;
+}

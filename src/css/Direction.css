@@ -1,0 +1,15 @@
+.custom-icon-size {
+    height: 30px;
+    margin-right: 2%;
+    cursor: pointer;
+}
+
+.content-direction {
+    width: 40%;
+    padding: 1rem 1rem 3rem 1rem;
+}
+
+.direction-social {
+    display: flex;
+    flex-flow: row;
+}
